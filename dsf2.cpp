@@ -3,6 +3,7 @@
 #include<iostream>
 using namespace std;
 
+
 struct nodestack
     {
     int data;
