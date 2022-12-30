@@ -7,6 +7,7 @@ typedef struct node
 }root;
 class tree
 {
+	
 	root *nw;
 	int key;
 	
